@@ -1,5 +1,3 @@
-# StudentID: 012582173
-
 import csv
 from pathlib import Path
 from datetime import datetime
